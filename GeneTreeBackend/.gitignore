@@ -1,0 +1,5 @@
+# Ignorar o arquivo de variáveis de ambiente
+.env
+
+# Outras entradas comuns
+/node_modules

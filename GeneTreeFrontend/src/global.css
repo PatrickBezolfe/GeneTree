@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+    background-color: #f1f1f1;
+}
+
+
+.session {
+    background-color: #626262;
+    width: 90vw;
+    height: 80vh;
+    margin: auto;
+    padding: 25px 0px;
+}
+
+.navBtnModal {
+    display: flex;
+    justify-content: flex-end;
+    width: 90vw;
+    margin: auto;
+    padding: 25px 0px;
+}
+
+svg.tommy .node.male>rect {
+    fill: #57D498;
+}  
+
+svg.tommy .node.female>rect {
+    fill: #D49A57;
+}  
+
